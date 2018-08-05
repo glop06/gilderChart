@@ -1,0 +1,22 @@
+apiVersion: v1
+entries:
+  gilderChart:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: 2018-08-04T22:00:22.626141512-06:00
+    description: A Helm chart for Kubernetes
+    digest: sha256:de0557927f05de31806510ac2079f7fea78ab78053edc39905ee67022d25403b
+    name: gilderChart
+    urls:
+    - http://127.0.0.1:8879/charts/gilderChart-0.1.0.tgz
+    version: 0.1.0
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: 2018-08-05T01:00:46.841769916-06:00
+    description: A Helm chart for Web, Word and DB
+    digest: sha256:1688dc2567799b1457573164a0279f83bc7f238e10b84b47915d15e0bc03b9ad
+    name: gilderChart
+    urls:
+    - http://127.0.0.1:8879/charts/gilderChart-0.1.0.tgz
+    version: 0.1.0
+generated: 2018-08-04T12:31:22.295162419-06:00
